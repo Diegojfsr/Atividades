@@ -1,2 +1,2 @@
-# Treinar_Digitalcao_Infantil
+# Treinar_Digitacao_Infantil
 Treinamento em Digitação para crianças.
